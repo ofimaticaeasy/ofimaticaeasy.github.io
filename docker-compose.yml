@@ -6,4 +6,4 @@ jekyll:
   volumes:
     - '//Volumes/DATA/projects/ofimaticaeasy:/app'
   working_dir: /app
-  command: jekyll serve --watch --host 0.0.0.0
+  command: jekyll serve --watch --host 0.0.0.0 --drafts

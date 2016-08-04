@@ -9,10 +9,10 @@
 title: Ofimatica Easy
 email: ofimaticaeasy@gmail.com
 description: # this means to ignore newlines until "baseurl:"
-  En este blog encontraras post relacionados con programación, servidores, noticias, etc.
-  Podrás aprendes leguajes de programación tales como php, java, javascript ...
+  En OfimaticaEasy encontraras tutoriales relacionados con programación, servidores, noticias, etc.
+  Podrás aprendes leguajes de programación tales como php 7, java, javascript ...
   Si te gusta podrás subcribirte a nuestra newsletter.
-keywords: programación, tecnología, php, java, javascript, noticias, tutoriales programación
+keywords: programacion, tecnologia, php tutorial, java tutorial, javascript tutorial, noticias, tutoriales programacion, php 7, ofimaticaeasy, ofimatica, jre
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://0.0.0.0:4000" # the base hostname & protocol for your site
 twitter_username: ofimaticaeasy

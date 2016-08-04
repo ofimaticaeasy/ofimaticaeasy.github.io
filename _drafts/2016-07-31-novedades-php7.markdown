@@ -1,13 +1,40 @@
 ---
 layout: post
-title:  "test to Jekyll!"
-date:   2016-07-24 17:21:29 +0200
-categories: jekyll update
-permalink: /post-test
-image-path: /assets/img/test.png
+title:  "10 NOVEDADES EN PHP 7"
+date:   2016-07-30 17:00:00 +0200
+categories: programación php tutorial
+permalink: /php/novedades-php7
+image-path: /assets/img/10-novedades-de-php7-compressor.jpg
 image-alt: "test"
-keywords: "hola,adios"
+keywords: "php7,php 7,php,novedades,programacion"
+excerpt_separator: <!--more-->
 ---
+En este primer post del blog, vamos a ver algunas de las novedades del tan esperado php 7.
+
+## **1. Declaración de tipos**
+
+Ya por fin podemos declarar los tipos básicos en las funciones.
+
+{% highlight php startinline=True linenos %}
+<?php
+function foo(bool $baz) {
+    return 'hello';
+}
+
+function foo(float $baz) {
+    return 'hello';
+}
+
+function foo(int $baz) {
+    return 'hello';
+}
+
+function foo(string $baz) {
+    return 'hello';
+}
+{% endhighlight %}
+
+<!--more-->
 
 Esto es un test 6
 
