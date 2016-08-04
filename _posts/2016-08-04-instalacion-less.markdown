@@ -14,12 +14,39 @@ Todo esto lo iremos viendo en diferentes post, pero hoy empezaremos con la insta
 
 ## Instalación
 
-La instalación la vamos a llevar acabo con *npm* y para ello necesitamos tener instalado node. Para la instalación de node en Ubuntu ejecutamos lo siguiente:
+La instalación la vamos a llevar acabo con **npm** y para ello necesitamos tener instalado node. Para la instalación de node en Ubuntu ejecutamos lo siguiente:
 
 {% highlight Bash linenos %}
-curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash -
-sudo apt-get install -y nodejs
-sudo apt-get install -y build-essential
+# curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash -
+# sudo apt-get install -y nodejs
+# sudo apt-get install -y build-essential
 {% endhighlight %}
 
-Una vez que ya tenemos node y npm podemos empezar con nuestro proyecto. Vamos a crear una estructura básica de directorios
+Una vez que ya tenemos node y npm podemos empezar con nuestro proyecto. Vamos a crear un directorio **_less** donde van a estar todos nuestros less.
+
+Dentro del directorio **_less** vamos a crear un fichero **main.less** con el siguiente ejemplo:
+
+{% highlight css linenos %}
+@nice-blue: #5B83AD;
+@light-blue: @nice-blue + #111;
+
+#header {
+  color: @light-blue;
+}
+{% endhighlight %}
+
+Ahora probamos si el pre-compilador funciona ejecutando
+
+{% highlight Bash linenos %}
+$ lessc _less/main.less styles.css
+{% endhighlight %}
+
+Esto debería crear el fichero styles.css con el siguiente contenido:
+
+{% highlight css linenos %}
+#header {
+  color: #6c94be;
+}
+{% endhighlight %}
+
+En los siguientes post veremos como sacarle el mayor partido a less.

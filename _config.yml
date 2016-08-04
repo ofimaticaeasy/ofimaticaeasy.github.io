@@ -26,3 +26,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+# cache
+assets:
+  cache: .my_cache_folder
