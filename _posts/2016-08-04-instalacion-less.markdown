@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "INSTALACIÓN DE LESS"
 date:   2016-08-04 8:00:00 +0200
 categories: css less pre-procesadores
