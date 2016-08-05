@@ -15,7 +15,7 @@ layout: default
                     <div class="post-preview-content">
                         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
                         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                            <h3>{{ post.title | upcase }}</h3>
+                            <h3>{{ post.title }}</h3>
                         </a>
                         {{ post.excerpt }}
                         {% if post.excerpt != post.content %}

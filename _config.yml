@@ -18,6 +18,7 @@ url: "http://0.0.0.0:4000" # the base hostname & protocol for your site
 twitter_username: ofimaticaeasy
 github_username:  ofimaticaeasy
 permalink: pretty
+encoding: utf-8
 
 # Build settings
 markdown: kramdown
