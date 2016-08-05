@@ -8,7 +8,7 @@
 # Site settings
 title: Ofimatica Easy
 email: ofimaticaeasy@gmail.com
-description: # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
   En OfimaticaEasy encontraras tutoriales relacionados con programación, servidores, noticias, etc.
   Podrás aprendes leguajes de programación tales como php 7, java, javascript ...
   Si te gusta podrás subcribirte a nuestra newsletter.
