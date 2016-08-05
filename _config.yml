@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Si te gusta podrás subcribirte a nuestra newsletter.
 keywords: programacion, tecnologia, php tutorial, java tutorial, javascript tutorial, noticias, tutoriales programacion, php 7, ofimaticaeasy, ofimatica, jre
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://0.0.0.0:4000" # the base hostname & protocol for your site
+url: "http://ofimaticaeasy.es" # the base hostname & protocol for your site
 twitter_username: ofimaticaeasy
 github_username:  ofimaticaeasy
 permalink: pretty
@@ -31,3 +31,6 @@ gems:
 # cache
 assets:
   cache: .my_cache_folder
+
+# Google services
+google_analytics: UA-54015456-2
