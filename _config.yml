@@ -22,7 +22,7 @@ encoding: utf-8
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+
 
 # gems plugin
 gems:

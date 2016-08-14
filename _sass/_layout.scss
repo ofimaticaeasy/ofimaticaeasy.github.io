@@ -257,4 +257,16 @@
             font-size: 18px;
         }
     }
+
+    .text-center {
+        text-align: center;
+
+        .img-vertical {
+            width: 30%;
+        }
+
+        .img-horizontal {
+            width: 60%;
+        }
+    }
 }
