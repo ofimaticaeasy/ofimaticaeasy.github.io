@@ -6,7 +6,7 @@ date:   2016-08-04 8:00:00 +0200
 categories: css less pre-procesadores
 permalink: /css/instalacion-less
 image-path: /assets/img/instalacion-less.jpg
-image-alt: "instalacion-less"
+image-alt: "instalacion less"
 keywords: "less,css,pre-procesador css,procesador css, instalar less, instalacion less"
 ---
 Hoy empezamos con unos de los pre-procesadores de css. 
