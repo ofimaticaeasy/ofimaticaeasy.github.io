@@ -7,7 +7,7 @@ categories: css less pre-procesadores
 permalink: /css/instalacion-less
 image-path: /assets/img/instalacion-less.jpg
 image-alt: "instalacion-less"
-keywords: "less,css,pre-procesador css,procesador css"
+keywords: "less,css,pre-procesador css,procesador css, instalar less, instalacion less"
 ---
 Hoy empezamos con unos de los pre-procesadores de css. 
 **Less** añade funcionalidades como variables, mixins, funciones y una serie de técnicas que permiten tener unas hojas de estilo más mantenibles y más escalables.
