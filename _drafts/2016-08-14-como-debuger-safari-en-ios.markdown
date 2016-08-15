@@ -2,7 +2,7 @@
 layout: post
 title:  "Como hacer debug en Safari de iOS"
 date:   2016-08-14 17:10:00 +0200
-categories: debug
+categories: debug safari ios
 permalink: /debug/como-hacer-debug-safari-ios
 image-path: /assets/img/debugear-safari-ios.jpg
 image-alt: "Como hacer debug en iOS"

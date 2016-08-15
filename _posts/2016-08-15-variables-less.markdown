@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Variables en less"
-date:   2016-08-15 10:00:00 +0200
+date:   2016-08-15 08:00:00 +0200
 categories: css less pre-procesadores
 permalink: /css/variables-less
 image-path: /assets/img/variables-less.jpg
