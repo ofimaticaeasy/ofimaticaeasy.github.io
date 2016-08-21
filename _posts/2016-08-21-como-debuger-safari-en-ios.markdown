@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Como hacer debug en Safari de iOS"
-date:   2016-08-14 17:10:00 +0200
+date:   2016-08-21 10:00:00 +0200
 categories: debug safari ios
 permalink: /debug/como-hacer-debug-safari-ios
 image-path: /assets/img/debugear-safari-ios.jpg
@@ -37,10 +37,12 @@ Una vez en esa pantalla, activamos **inspector web**
 Ahora abrimos Safari en el dispositivo y vamos a la **url** que queremos debugear. 
 Dejamos Safari en nuestro dispositivo abierto y abrimos Safari en el ordenado. 
 Vamos a la pestalla de **Desarrollo** y nos tiene que salir nuestro dispositivo, 
-si no ves el menú **Desarrollo** puedes lee este post,
+si no ves el menú **Desarrollo** puedes lee el post de [como activar las herramientas de desarrollo en Safari][activar-herramientas-desarrollo-safari],
  
 <div class="text-center" markdown="1">
 ![Inspector web]({{ site.baseurl }}/assets/img/inspector-web-iphone.png "Inspector web"){:class="img-horizontal"}
 </div>
 
 Con eso ya tendríamos el inspector web  del dispositivo en nuestro ordenador.
+
+[activar-herramientas-desarrollo-safari]: {% post_url 2016-08-20-como-activar-herramientas-de-desarrollo-en-safari %}
