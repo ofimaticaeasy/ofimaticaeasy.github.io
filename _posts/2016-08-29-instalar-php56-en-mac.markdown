@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Instalar php5.6 en mac 10.11 El Capitan"
-date:   2016-08-28 8:00:00 +0200
+date:   2016-08-29 8:00:00 +0200
 categories: php
 permalink: /mac/instalar-php56-ma
 image-path: /assets/img/instalar-php56-en-mac.jpg
