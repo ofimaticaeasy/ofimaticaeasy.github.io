@@ -13,7 +13,7 @@ Ya vimos como podemos [instalar apache y php][apache-php-mac] nativamente en mac
 También vimos [como configurar los virtualhost][virtualhost-apache] en apache para tener más proyectos en nuestro apache.
 Hoy vamos a ver cómo podemos instalar php5.6 y sustituir la versión anterior de php.
 
-Para ello nos vamos lo primero es crear un info.php en algún virtualhost para después ver
+Para ello nos vamos a crear un info.php en algún virtualhost para después ver
 que todo ha ido bien. En el post de [como instalar apache y php en mac][apache-php-mac] enseño como se hace.
 
 EL proceso es muy sencillo, no vamos a esta web [http://php-osx.liip.ch/][php56]{:target="_blank"} y copiamos la
