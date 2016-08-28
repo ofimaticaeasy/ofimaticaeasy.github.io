@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Instalar apache y php en mac 10.11 El Capitan"
-date:   2016-08-27 8:00:00 +0200
+date:   2016-08-28 8:00:00 +0200
 categories: apache php
 permalink: /mac/instalar-apache-php-mac
 image-path: /assets/img/apache-y-php-en-mac.jpg
@@ -117,4 +117,4 @@ de php.
 Con eso estaría todo. Si ahora lo que quieres es configurar un virtualHost para
 cada proyecto, puedes leer el [este post][virtualhost-apache].
 
-[virtualhost-apache]: {% post_url 2016-08-27-configurar-virtualhost-en-apache-mac %}
+[virtualhost-apache]: {% post_url 2016-08-28-configurar-virtualhost-en-apache-mac %}

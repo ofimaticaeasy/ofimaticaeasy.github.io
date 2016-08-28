@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "VirtualHost en apache de mac"
-date:   2016-08-27 8:00:00 +0200
+date:   2016-08-28 8:00:00 +0200
 categories: apache
 permalink: /mac/virtualhost-apache-mac
 image-path: /assets/img/crear-virtualhost-en-apache.jpg
@@ -145,4 +145,4 @@ Ahora ya podemos acceder a test.example.com desde un navegador. Si todo ha ido
 bien debemos ver el mensaje.
 Ahora ya podemos crear todos los virtualHost que queramos.
 
-[apache-php-mac]: {% post_url 2016-08-27-apache-y-php-en-mac %}
+[apache-php-mac]: {% post_url 2016-08-28-apache-y-php-en-mac %}
