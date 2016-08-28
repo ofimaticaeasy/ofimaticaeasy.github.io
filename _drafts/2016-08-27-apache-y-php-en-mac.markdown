@@ -115,4 +115,6 @@ Ahora accedemos a http://localhost/info.php y tendrás que ver toda la configura
 de php.
 
 Con eso estaría todo. Si ahora lo que quieres es configurar un virtualHost para
-cada proyecto, puedes leer el este post.
+cada proyecto, puedes leer el [este post][virtualhost-apache].
+
+[virtualhost-apache]: {% post_url 2016-08-27-configurar-virtualhost-en-apache-mac %}
