@@ -51,4 +51,4 @@ Más adelante ampliaremos un poco este fichero.
 
 Os invito a que os suscribais a la newsletter de ofimaticaeasy.es.
 
-[como-instalar-node]: {% post_url 2016-09-04-instalacion-de-node-cursoreactjs %}
+[como-instalar-node]: {% post_url 2016-09-05-instalacion-de-node-cursoreactjs %}
