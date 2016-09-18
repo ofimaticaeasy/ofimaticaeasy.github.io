@@ -47,6 +47,14 @@ Lo que hacemos con este fichero es lo siguiente:
 * **DevDependencies** indicamos las dependencias que va a tener la aplicación pero solo en entornos de desarrollo.
 
 Como vemos en las dependencias hemos puesto los paquetes de reactjs, babel y webpack.
+Ahora para descargar todas las dependencias ejecutamos:
+{% highlight Bash linenos %}
+npm install
+{% endhighlight %}
+
+Este comando empezará a descargar todas las dependencias y las meterá en un 
+directorio **node_modules**.
+
 Más adelante ampliaremos un poco este fichero.
 
 Os invito a que os suscribais a la newsletter de ofimaticaeasy.es.
