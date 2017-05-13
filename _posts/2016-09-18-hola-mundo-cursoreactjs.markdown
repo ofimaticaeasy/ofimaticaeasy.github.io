@@ -8,6 +8,9 @@ permalink: /reactjs/hola-mundo
 image-path: /assets/img/hola-mundo-curso-react.jpg
 image-alt: "configuración de webpack"
 keywords: "curso reactjs, reactjs, react, hola mundo, hello world"
+author: "ofimaticaeasy"
+image: /assets/img/hola-mundo-curso-react.jpg
+date_modified: 2016-09-18 8:00:00
 ---
 Después de varios post hablando de **React** y configurando nuestro proyecto,
 hoy vamos a crear nuestro primer componente. Como no podía ser de otra
