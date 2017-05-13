@@ -17,6 +17,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ofimaticaeasy.es" # the base hostname & protocol for your site
 twitter_username: ofimaticaeasy
 github_username:  ofimaticaeasy
+twitter:
+  username: ofimaticaeasy
 permalink: pretty
 encoding: utf-8
 
