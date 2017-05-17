@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Rumores sobre las novedades del iPhone7"
 date:   2016-09-01 5:00:00 +0200
-categories: ReactJs
+categories: noticias
 permalink: /noticias/rumores-novedades-iphone7
 image-path: /assets/img/rumores-iphone7.jpg
 image-alt: "rumores del iPhone 7"

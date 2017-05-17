@@ -5,29 +5,74 @@ layout: default
 <div class="page-content page-content-home">
     <div class="wrapper">
         <div class="home">
-
-            <h1 class="page-heading">Últimas Publicaciones</h1>
-
-            <ul class="post-list">
-                {% for post in site.posts %}
-                <li class="post">
-                    <img src="{{ site.baseurl }}{{ post.image-path }}" alt="{{ post.image-alt }}">
-                    <div class="post-preview-content">
-                        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                            <h3>{{ post.title }}</h3>
-                        </a>
-                        {{ post.excerpt }}
-                        {% if post.excerpt != post.content %}
-                        <a href="{{ site.baseurl }}{{ post.url }}">Seguir leyendo</a>
-                        {% endif %}
-                    </div>
-                </li>
-                {% endfor %}
-            </ul>
-
-            <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+            <div class="category-list">
+                <div id="videos-category" class="category">
+                    <a href="{{ site.baseurl }}/videotutoriales/">
+                        <img src="http://img.youtube.com/vi/zTH-OWDnG44/maxresdefault.jpg" alt="videotutoriales">
+                    </a>
+                    <a href="{{ site.baseurl }}/videotutoriales/">
+                        <h3>Videotutoriales</h3>
+                    </a>
+                </div>
+                <div id="docker-category" class="category">
+                    <a href="{{ site.baseurl }}/docker-tutorial/">
+                        <img src="{{ site.baseurl }}/assets/img/eliminar-contenedores-docker.jpg"
+                             alt="docker tutorial">
+                    </a>
+                    <a href="{{ site.baseurl }}/docker-tutorial/">
+                        <h3>Tutotiales de docker</h3>
+                    </a>
+                </div>
+                <div id="reactjs-category" class="category">
+                    <a href="{{ site.baseurl }}/react-js-tutorial/">
+                        <img src="{{ site.baseurl }}/assets/img/hola-mundo-curso-react.jpg"
+                             alt="react js tutorial">
+                    </a>
+                    <a href="{{ site.baseurl }}/react-js-tutorial/">
+                        <h3>Tutotiales de React JS</h3>
+                    </a>
+                </div>
+                <div id="news-category" class="category">
+                    <a href="{{ site.baseurl }}/noticias-tecnologia/">
+                        <img src="{{ site.baseurl }}/assets/img/rumores-iphone7.jpg" alt="noticias de tecnología">
+                    </a>
+                    <a href="{{ site.baseurl }}/noticias-tecnologia/">
+                        <h3>Noticias de tecnología</h3>
+                    </a>
+                </div>
+                <div id="less-css-category" class="category">
+                    <a href="{{ site.baseurl }}/less-css/">
+                        <img src="{{ site.baseurl }}/assets/img/instalacion-less.jpg" alt="less css">
+                    </a>
+                    <a href="{{ site.baseurl }}/less-css/">
+                        <h3>Less CSS</h3>
+                    </a>
+                </div>
+                <div id="apache-server-category" class="category">
+                    <a href="{{ site.baseurl }}/apache-server/">
+                        <img src="{{ site.baseurl }}/assets/img/crear-virtualhost-en-apache.jpg" alt="apache server">
+                    </a>
+                    <a href="{{ site.baseurl }}/apache-server/">
+                        <h3>Tutoriales de apache server</h3>
+                    </a>
+                </div>
+                <div id="php-tutorial-category" class="category">
+                    <a href="{{ site.baseurl }}/php-tutorial/">
+                        <img src="{{ site.baseurl }}/assets/img/instalar-php56-en-mac.jpg" alt="php tutorial">
+                    </a>
+                    <a href="{{ site.baseurl }}/php-tutorial/">
+                        <h3>Tutoriales de php</h3>
+                    </a>
+                </div>
+                <div id="safari-category" class="category">
+                    <a href="{{ site.baseurl }}/safari/">
+                        <img src="{{ site.baseurl }}/assets/img/activar-herramientas-safari.jpg" alt="safari">
+                    </a>
+                    <a href="{{ site.baseurl }}/safari/">
+                        <h3>Tutoriales de safari</h3>
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
 </div>
