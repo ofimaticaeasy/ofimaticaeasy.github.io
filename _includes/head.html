@@ -6,12 +6,12 @@
     <title>{{ page.title }} | OfimaticaEasy.es</title>
     <meta name="description" content="{{ page.description }}"/>
     <meta name="robots" content="noodp"/>
-    <link rel="canonical" href="{{ site.url }}" />
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="{% if page.type %}{{ page.type }}{% else %}website{% endif %}" />
     <meta property="og:title" content="{{ page.title }} | OfimaticaEasy.es" />
     <meta property="og:description" content="{{ page.description }}" />
-    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:site_name" content="OfimaticaEasy" />
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
