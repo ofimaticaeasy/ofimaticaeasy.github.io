@@ -28,7 +28,6 @@ markdown: kramdown
 # gems plugin
 gems:
   - jekyll-sitemap
-  - jekyll-seo-tag
 
 # cache
 assets:
