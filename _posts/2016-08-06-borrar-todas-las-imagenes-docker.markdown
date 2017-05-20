@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "Borrar todas las imagenes en Docker"
+title:  "Borrar imagenes en Docker"
+description: Eliminar imagenes de docker y mantener limpio el equipo es importante para un buen rendimiento de nuestro entorno de trabajo.
+type: article
 date:   2016-08-06 17:00:00 +0200
 categories: docker
 permalink: /docker/borrar-todas-imagenes
 image-path: /assets/img/eliminar-imagenes-docker.jpg
 image-alt: "borrar imagen docker"
 keywords: "docker,images docker,imagenes docker"
+date_modified: 2017-05-20 12:00:00
 ---
 Uno de los problemas cuando trabajamos con **Docker** es la cantidad de imagenes que creamos y sobre todo cuando empezamos a trabajar con el.
 Borrar imagen a imagen aveces es un trabajo un poco duro y que nos puede llevar un tiempo, por eso os voy a enseñar este comando maravilloso.

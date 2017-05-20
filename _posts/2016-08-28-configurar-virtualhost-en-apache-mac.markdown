@@ -2,12 +2,15 @@
 layout: post
 comments: true
 title:  "VirtualHost en apache de mac"
+description: Es importante aprender a configurar los virtualhost de apache en nuestro mac para trabajar con muchos proyectos.
+type: article
 date:   2016-08-28 8:00:00 +0200
 categories: apache
 permalink: /mac/virtualhost-apache-mac
 image-path: /assets/img/crear-virtualhost-en-apache.jpg
 image-alt: "vitualhost apache mac"
 keywords: "crear virtualhost en apache mac, crear virtualhost apache, virtualhost mac"
+date_modified: 2017-05-20 12:00:00
 ---
 En el post anterior vimos [como configurar apache y php en mac][apache-php-mac]. Hoy vamos a
 ver como poder configurar virtualhost en nuestro apache para extender su funcionalidad.

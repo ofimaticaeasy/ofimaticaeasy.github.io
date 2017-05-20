@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "Borrar todos los contenedores en Docker"
+title:  "Borrar contenedores en Docker"
+description: Aprende a eliminar contenedores de docker que ya no utilices para que no tengas el equipo llego de contenederos inicesarios.
+type: article
 date:   2016-08-06 17:10:00 +0200
 categories: docker
 permalink: /docker/borrar-todos-contenedores
 image-path: /assets/img/eliminar-contenedores-docker.jpg
 image-alt: "borrar contenedores docker"
 keywords: "docker,container docker,contenedores docker"
+date_modified: 2017-05-20 12:00:00
 ---
 En algunas ocasiones nos olvidamos de los contenedores que tenemos creados y cuando nos damos cuenta tenemos 30.
 Ya vimos [como borrar todas las imagenes en docker][borrar-imagenes], 

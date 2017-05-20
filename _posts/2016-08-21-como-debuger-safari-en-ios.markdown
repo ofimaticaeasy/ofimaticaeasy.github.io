@@ -1,12 +1,15 @@
 ---
 layout: post
 title:  "Como hacer debug en Safari de iOS"
+description: No te olvides hacer debuging en tus dispositivos iOS de tus aplicaciones web. Hoy veremos como hacer debug en Safari de iOS.
+type: article
 date:   2016-08-21 10:00:00 +0200
 categories: debug safari ios
 permalink: /debug/como-hacer-debug-safari-ios
 image-path: /assets/img/debugear-safari-ios.jpg
 image-alt: "Como hacer debug en iOS"
 keywords: "debug ios, debug, como hacer debug safari ios, como hacer debug en ios, debugear safari ios"
+date_modified: 2017-05-20 12:00:00
 ---
 Cada vez los navegadores nos ayudan más a simular navegadores de móviles, 
 pero siempre da más confianza **debugear** directamente en el móvil o tablet. 

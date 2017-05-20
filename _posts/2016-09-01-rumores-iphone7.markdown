@@ -2,12 +2,15 @@
 layout: post
 comments: true
 title:  "Rumores sobre las novedades del iPhone7"
+description: Enterate de los rumores y novedades del iPhone 7. Tu crees que acertaremos alguno?
+type: article
 date:   2016-09-01 5:00:00 +0200
 categories: noticias
 permalink: /noticias/rumores-novedades-iphone7
 image-path: /assets/img/rumores-iphone7.jpg
 image-alt: "rumores del iPhone 7"
 keywords: "rumores iPhone 7, novedades iphone 7, iphone 7"
+date_modified: 2017-05-20 12:00:00
 ---
 Como cada año por estas fechas se habla mucho sobre las novedades que 
 traerá el **iPhone 7**. Apple aunque siempre es muy estanca en las novedades 

@@ -1,7 +1,9 @@
 ---
 layout: post
 comments: true
-title:  "Hola Mundo - Curso ReactJs"
+title:  "Hola Mundo en react js"
+description: Aprende hacer tu primer hola mundo en react js. Empecemos por lo básico de react js y vayamos subiendo el nivel.
+type: article
 date:   2016-09-18 8:00:00 +0200
 categories: ReactJs
 permalink: /reactjs/hola-mundo
@@ -10,7 +12,7 @@ image-alt: "configuración de webpack"
 keywords: "curso reactjs, reactjs, react, hola mundo, hello world"
 author: "ofimaticaeasy"
 image: /assets/img/hola-mundo-curso-react.jpg
-date_modified: 2016-09-18 8:00:00
+date_modified: 2017-05-20 12:00:00
 ---
 Después de varios post hablando de **React** y configurando nuestro proyecto,
 hoy vamos a crear nuestro primer componente. Como no podía ser de otra

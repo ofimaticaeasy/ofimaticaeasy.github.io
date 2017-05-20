@@ -1,13 +1,16 @@
 ---
 layout: post
 comments: true
-title:  "Configuración de webpack - Curso ReactJs"
+title:  "Configuración de webpack"
+description: Aprende a configurar Webpack para nuestros proyectos de react js. Webpack es una de las herramientas más potentes en front end.
+type: article
 date:   2016-09-18 8:00:00 +0200
 categories: ReactJs
 permalink: /reactjs/configuracion-webpack
 image-path: /assets/img/configurar-webpack-curso-react.jpg
 image-alt: "configuracion de webpack"
 keywords: "curso reactjs, reactjs, react, configurar webpack, configuracion webpack, webpack"
+date_modified: 2017-05-20 12:00:00
 ---
 En los anteriores post del curso vimos [cómo instalar node][como-instalar-node] y [cómo instalar 
 reactjs][como-instalar-reactjs]. Antes de escribir nuestro primer hola mundo en reactjs, nos hace 

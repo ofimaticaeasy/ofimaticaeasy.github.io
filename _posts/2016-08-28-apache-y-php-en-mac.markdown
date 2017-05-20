@@ -2,12 +2,15 @@
 layout: post
 comments: true
 title:  "Instalar apache y php en mac 10.11 El Capitan"
+description: Aprende a intalar apache y php en mac. De una forma muy facil tendremos apache y php en nuestro mac de forma nativa.
+type: article
 date:   2016-08-28 8:00:00 +0200
 categories: apache php
 permalink: /mac/instalar-apache-php-mac
 image-path: /assets/img/apache-y-php-en-mac.jpg
 image-alt: "instalar apache y php en mac"
 keywords: "instalar apache en mac, instalar php en mac, apache en el capitan, php en el capitan, instalacion apache en el capitan, instalacion php en el capitan, apache php nativo mac"
+date_modified: 2017-05-20 12:00:00
 ---
 En los equipo de la compañía Apple por defecto viene instalado apache y php,
 no se muy bien el motivo, pero ya viene de fábrica instalado. Llevo mucho tiempo

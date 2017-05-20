@@ -1,13 +1,16 @@
 ---
 layout: post
 comments: true
-title:  "Instalación de less"
+title:  "Instalación de less css"
+description: Hoy veremos como instalar less css y daremos los primero pasitos sacandole partido a la potencia de este preprocesador.
+type: article
 date:   2016-08-04 8:00:00 +0200
 categories: css less pre-procesadores
 permalink: /css/instalacion-less
 image-path: /assets/img/instalacion-less.jpg
 image-alt: "instalacion less"
 keywords: "less,css,pre-procesador css,procesador css, instalar less, instalacion less"
+date_modified: 2017-05-20 12:00:00
 ---
 Hoy empezamos con unos de los pre-procesadores de css. 
 **Less** añade funcionalidades como variables, mixins, funciones y una serie de técnicas que permiten tener unas hojas de estilo más mantenibles y más escalables.

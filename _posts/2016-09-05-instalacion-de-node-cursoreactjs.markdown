@@ -1,13 +1,16 @@
 ---
 layout: post
 comments: true
-title: "Instalación de Node - Curso ReactJs"
+title: "Instalación de Node js"
+description: Node es una herramienta creada en Javascript. Aprende como instalar nodejs de una forma muy básica.
+type: article
 date: 2016-09-05 6:00:00 +0200
 categories: ReactJs
 permalink: /reactjs/instalacion-node
 image-path: /assets/img/instalacion-nodejs-curso-react.jpg
 image-alt: "instalacion de node"
 keywords: "curso reactjs, reactjs, react, instalacion node, instalar node, tutorial react"
+date_modified: 2017-05-20 12:00:00
 ---
 Hoy empezamos un nuevo curso, en esta ocasión ReactJs. Para el curso vamos 
 a utilizar Node para que npm nos ayude con las dependencias. En este primer 

@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "Variables en less"
+title:  "Variables en less css"
+description: Hoy veremos las variables de less css una de las funciones de las funciones de los precompiladores de css.
+type: article
 date:   2016-08-15 08:00:00 +0200
 categories: css less pre-procesadores
 permalink: /css/variables-less
 image-path: /assets/img/variables-less.jpg
 image-alt: "variables less"
 keywords: "less,css,pre-procesador css,procesador css, variables less"
+date_modified: 2017-05-20 12:00:00
 ---
 En este post vamos a empezar a ver la potencia de **less**. 
 Hay muchas veces que en nuestras hojas de estilo repetimos colores, 

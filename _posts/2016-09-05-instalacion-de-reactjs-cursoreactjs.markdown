@@ -1,13 +1,16 @@
 ---
 layout: post
 comments: true
-title:  "Instalación de ReactJs - Curso ReactJs"
+title:  "Instalación de react js"
+description: Aun no tienes react js instalado? A que estas esperando? Aprende como instalar react js con npm de una forma muy básica.
+type: article
 date:   2016-09-05 6:01:00 +0200
 categories: ReactJs
 permalink: /reactjs/instalacion-reactjs
 image-path: /assets/img/instalacion-reactjs-curso-react.jpg
 image-alt: "instalacion de reactjs"
 keywords: "curso reactjs, reactjs, react, instalacion reactjs, instalar reactjs, tutorial react"
+date_modified: 2017-05-20 12:00:00
 ---
 En el anterior post vimos [cómo instalar Node][como-instalar-node], hoy veremos cómo instalar 
 ReactJs. Hay varias formas de instalar ReactJs en nuestro proyecto pero, 

@@ -2,12 +2,15 @@
 layout: post
 comments: true
 title:  "Instalar php5.6 en mac 10.11 El Capitan"
+description: Aprende a instalar php 5.6 en mac. De una forma muy sencilla instalaremos php 5.6 en nuestro mac 10.11 El Capitan.
+type: article
 date:   2016-08-29 8:00:00 +0200
 categories: php
 permalink: /mac/instalar-php56-ma
 image-path: /assets/img/instalar-php56-en-mac.jpg
 image-alt: "instalar php56 en mac"
 keywords: "instalar php5.6 en mac, instalar php5.6 el capitan, instalar php5.6"
+date_modified: 2017-05-20 12:00:00
 ---
 Ya vimos como podemos [instalar apache y php][apache-php-mac] nativamente en mac 10.11.
 También vimos [como configurar los virtualhost][virtualhost-apache] en apache para tener más proyectos en nuestro apache.
