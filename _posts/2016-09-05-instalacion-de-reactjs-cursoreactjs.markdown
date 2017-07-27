@@ -62,4 +62,7 @@ Más adelante ampliaremos un poco este fichero.
 
 Os invito a que os suscribais a la newsletter de ofimaticaeasy.es.
 
+Si quieres más ampliar conocimientos puedes buscar un libro en **[un buen libro]**[libros-de-reactjs]
+
 [como-instalar-node]: {% post_url 2016-09-05-instalacion-de-node-cursoreactjs %}
+[libros-de-reactjs]: {% https://www.unbuenlibro.com %}
