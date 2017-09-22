@@ -4,18 +4,18 @@ title: La terminal de linux 0
 date: 2013-06-20T18:30:49+00:00
 author: OfimaticaEasy
 layout: post
-guid: 'http://ofimaticaeasy.es/post_type=videos&#038;p=19'
+guid: 'https://ofimaticaeasy.es/post_type=videos&#038;p=19'
 permalink: /la-terminal-de-linux-0/
 like_youtube:
   - 12
 dislike_youtube:
   - 1
 poster_youtube:
-  - http://img.youtube.com/vi/jiRHq82drzo/maxresdefault.jpg
+  - https://img.youtube.com/vi/jiRHq82drzo/maxresdefault.jpg
 id_youtube:
   - jiRHq82drzo
 video_youtube:
-  - 'http://www.youtube.com/v/jiRHq82drzo?version=3&f=user_uploads&app=youtube_gdata'
+  - 'https://www.youtube.com/v/jiRHq82drzo?version=3&f=user_uploads&app=youtube_gdata'
 views_youtube:
   - 1093
 post_views:
@@ -31,7 +31,7 @@ www.twitter.com/ofimaticaeasy
 
 MOODLE OFIMATICAEASY:
 
-http://www.ofimaticaeasy.16mb.com
+https://www.ofimaticaeasy.16mb.com
 
 COMANDOS BÁSICOS DEL EDITOR VI:
 
@@ -47,10 +47,10 @@ VÍDEO ANTERIOR:
 
 SUSCRÍBETE:
 
-http://www.youtube.com/subscription\_center?add\_user=ofimaticaeasy
+https://www.youtube.com/subscription\_center?add\_user=ofimaticaeasy
 
 &#8220;Song: Anozer Duo &#8211; End of the day
   
 Anozer Duo&#8217;s channel:
   
-http://www.youtube.com/user/OfficialAnozerDuo &#8220;
+https://www.youtube.com/user/OfficialAnozerDuo &#8220;

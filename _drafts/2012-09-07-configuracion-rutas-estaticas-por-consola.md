@@ -4,18 +4,18 @@ title: Configuración rutas estaticas por consola
 date: 2012-09-07T07:00:20+00:00
 author: OfimaticaEasy
 layout: post
-guid: 'http://ofimaticaeasy.es/post_type=videos&p=52'
+guid: 'https://ofimaticaeasy.es/post_type=videos&p=52'
 permalink: /configuracion-rutas-estaticas-por-consola/
 like_youtube:
   - 7
 dislike_youtube:
   - 0
 poster_youtube:
-  - http://img.youtube.com/vi/-PXGInpXoao/maxresdefault.jpg
+  - https://img.youtube.com/vi/-PXGInpXoao/maxresdefault.jpg
 id_youtube:
   - -PXGInpXoao
 video_youtube:
-  - 'http://www.youtube.com/v/-PXGInpXoao?version=3&f=user_uploads&app=youtube_gdata'
+  - 'https://www.youtube.com/v/-PXGInpXoao?version=3&f=user_uploads&app=youtube_gdata'
 views_youtube:
   - 1278
 post_views:
@@ -23,6 +23,6 @@ post_views:
 ---
 En este video veremos como se configuran rutas estáticas, por medio de la consola de router Cisco.
 
-Suscribete: http://www.youtube.com/ofimaticaeasy
+Suscribete: https://www.youtube.com/ofimaticaeasy
   
-Más vídeos:http://www.youtube.com/watch?v=zTH-OWDnG44&list=PL01F11D7F3A1B5E32&feature=plcp
+Más vídeos:https://www.youtube.com/watch?v=zTH-OWDnG44&list=PL01F11D7F3A1B5E32&feature=plcp

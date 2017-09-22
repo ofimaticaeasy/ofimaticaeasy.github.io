@@ -23,7 +23,7 @@ Lo primero vamos a comprobar si efectivamente tenemos apache instalado:
 $ sudo apachectl start
 {% endhighlight %}
 
-Ahora accedemos desde un navegador a http://localhost y nos tiene que poner It works!
+Ahora accedemos desde un navegador a https://localhost y nos tiene que poner It works!
 
 Vamos a verificar la versión de php que tiene instalado nuestro mac ejecutando los siguiente:
 {% highlight Bash linenos %}
@@ -76,12 +76,12 @@ configuración funciona con el siguiente contenido:
 <h1>hola que tal</h1>
 {% endhighlight %}
 
-Antes de ir al navegador y poner http://localhost hay que reiniciar el servidor con:
+Antes de ir al navegador y poner https://localhost hay que reiniciar el servidor con:
 {% highlight Bash linenos %}
 $ sudo apachectl restart
 {% endhighlight %}
 
-Ahora accedemos a http://localhost y debería salir nuestro mensaje.
+Ahora accedemos a https://localhost y debería salir nuestro mensaje.
 
 ## Configuración de php
 
@@ -114,7 +114,7 @@ phpinfo();
 ?>
 {% endhighlight %}
 
-Ahora accedemos a http://localhost/info.php y tendrás que ver toda la configuración
+Ahora accedemos a https://localhost/info.php y tendrás que ver toda la configuración
 de php.
 
 Con eso estaría todo. Si ahora lo que quieres es configurar un virtualHost para

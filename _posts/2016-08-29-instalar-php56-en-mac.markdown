@@ -19,10 +19,10 @@ Hoy vamos a ver cómo podemos instalar php5.6 y sustituir la versión anterior d
 Para ello nos vamos a crear un info.php en algún virtualhost para después ver
 que todo ha ido bien. En el post de [como instalar apache y php en mac][apache-php-mac] enseño como se hace.
 
-EL proceso es muy sencillo, no vamos a esta web [http://php-osx.liip.ch/][php56]{:target="_blank"} y copiamos la
+EL proceso es muy sencillo, no vamos a esta web [https://php-osx.liip.ch/][php56]{:target="_blank"} y copiamos la
 línea de la versión estable de php5.6 y la ejecutamos en la terminal.
 {% highlight Bash linenos %}
-curl -s http://php-osx.liip.ch/install.sh | bash -s 5.6
+curl -s https://php-osx.liip.ch/install.sh | bash -s 5.6
 {% endhighlight %}
 
 Este comando hará todo el trabajo por nosotros. Cuando termine solo tenemos
@@ -71,4 +71,4 @@ No te olvides suscribirte a nuestra newsletter si no te quieres perder post como
 
 [apache-php-mac]: {% post_url 2016-08-28-apache-y-php-en-mac %}
 [virtualhost-apache]: {% post_url 2016-08-28-configurar-virtualhost-en-apache-mac %}
-[php56]: http://php-osx.liip.ch/
+[php56]: https://php-osx.liip.ch/

@@ -4,18 +4,18 @@ title: La terminal de linux 16
 date: 2013-04-25T18:30:15+00:00
 author: administrador
 layout: post
-guid: 'http://ofimaticaeasy.es/post_type=videos&p=178'
+guid: 'https://ofimaticaeasy.es/post_type=videos&p=178'
 permalink: /la-terminal-de-linux-16/
 like_youtube:
   - 7
 dislike_youtube:
   - 0
 poster_youtube:
-  - http://img.youtube.com/vi/UC3UHQe-Xz4/maxresdefault.jpg
+  - https://img.youtube.com/vi/UC3UHQe-Xz4/maxresdefault.jpg
 id_youtube:
   - UC3UHQe-Xz4
 video_youtube:
-  - 'http://www.youtube.com/v/UC3UHQe-Xz4?version=3&f=user_uploads&app=youtube_gdata'
+  - 'https://www.youtube.com/v/UC3UHQe-Xz4?version=3&f=user_uploads&app=youtube_gdata'
 views_youtube:
   - 262
 post_views:
@@ -31,7 +31,7 @@ www.twitter.com/ofimaticaeasy
 
 MOODLE OFIMATICAEASY:
 
-http://www.ofimaticaeasy.16mb.com
+https://www.ofimaticaeasy.16mb.com
 
 ARRANCA LINUX EN MODO TEXTO:
 
@@ -43,10 +43,10 @@ VÍDEO ANTERIOR:
 
 SUSCRÍBETE:
 
-http://www.youtube.com/subscription\_center?add\_user=ofimaticaeasy
+https://www.youtube.com/subscription\_center?add\_user=ofimaticaeasy
 
 &#8220;Song: Anozer Duo &#8211; End of the day
   
 Anozer Duo&#8217;s channel:
   
-http://www.youtube.com/user/OfficialAnozerDuo &#8220;
+https://www.youtube.com/user/OfficialAnozerDuo &#8220;
